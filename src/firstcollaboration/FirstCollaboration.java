@@ -15,7 +15,13 @@ public class FirstCollaboration {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        helloWorld();
+        
+        
+    }
+    
+    public static void helloWorld(){
+        System.out.println("Hello There... General Kenobi!!!");
     }
     
 }
