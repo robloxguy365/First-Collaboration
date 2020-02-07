@@ -16,9 +16,9 @@ public class FirstCollaboration {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
-        System.out.println("Hello World");
-        
+        Hello();
     }
-    
+    public static void Hello(){
+        System.out.println("Hello World");
+    }
 }
